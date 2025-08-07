@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Prajna
 
-<!--
-**spinaprinceps/spinaprinceps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Information Science & Engineering undergrad (ISE)
+- 💻 Full Stack Developer  
+- 🤖 AI enthusiast currently learning machine learning and deep learning
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:**  
+Python, C, C++, Java, JavaScript/TypeScript
+
+**Web Technologies:**  
+React, Next.js, Node.js, Express, Tailwind CSS
+
+**Developer Tools:**  
+Git, GitHub, Postman
+
+**Databases:**  
+MongoDB, PostgreSQL, Prisma
+
